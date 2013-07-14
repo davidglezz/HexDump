@@ -3,6 +3,8 @@
 Simple hexadecimal file viewer.
 [Read more ...](http://en.wikipedia.org/wiki/Hex_dump)
 
+![Screenshot](https://github.com/davidgg666/HexDump/blob/master/screenshot.png?raw=true "Screenshot")
+
 ## Usage
 ```
 HexDump inputFile
